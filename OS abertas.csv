@@ -1,0 +1,152 @@
+,OS,Setor,Equipamento,Patrimônio,Defeito,Comentário,Responsável,Abertura,Fechamento,Situação,Tipo
+0,35998,Bloco Cirúrgico 2º andar ,Microondas,,Não mantém ligado,FAVOR CONSERTAR O MICROONDAS POIS NAO LIGA........GRATA.,MARCO ANTÔNIO,2021-03-25 12:08:59.121274,,open,SupportTicket
+1,35997,CTI Pediátrico ,Cabo de laringo,,Mal contato,laminas não ascende,MARCO ANTÔNIO,2021-03-25 12:02:20.797097,,open,SupportTicket
+2,35996,Raio-X ,Impressora de filmes,,,"CR parou de funcionar, favor verificar.",ADALBERTO,2021-03-25 11:52:39.655095,,open,SupportTicket
+3,35995,Clínica Cirúrgica Neuro,Braçadeira com manguito,,Com defeito,"FAVOR TROCAR MANQUITO DO APARELHO DE PRESSAO. PATRIMONIO 5308 , TERCEIRO ANDAR CLINICA DA NEURO. DESE JA AGRADEÇO SÕNIA",,2021-03-25 11:40:47.434290,,open,SupportTicket
+6,35992,UTIN-CTI Neonatal ,Oximetro de Pulso,S100100551,Outros,NÃO LÊ PATRIMONIO.,ADALBERTO,2021-03-25 11:22:26.628551,,open,SupportTicket
+8,35990,Pediátria 2º andar ,Balança Eletrônica,dec - 001140E,Não liga,BALANÇA PED NÃO LIGA. ENVIADA PARA REPARO ANTERIORMENTE E RETORNOU COM O MESMO DEFEITO.,MARCO ANTÔNIO,2021-03-25 10:31:50.804616,,open,SupportTicket
+9,35989,Pediátria 2º andar ,Balança Infantil,dec - 000736E,Não liga,BALANÇA PED NÃO LIGA. ENVIADA PARA REPARO ANTERIORMENTE E RETORNOU COM O MESMO DEFEITO.,MARCO ANTÔNIO,2021-03-25 10:29:19.722172,,open,SupportTicket
+10,35988,Maternidade ,Oftalmoscópio,MATOFT1010321,Com defeito,oftalmoscopio apresentando embaçamento no visor,MARCO ANTÔNIO,2021-03-25 09:28:56.088795,,open,SupportTicket
+11,35987,Raio-X ,Impressora de filmes,,Outros,"CR está fazendo um barulho de alarme, como um apito. Favor verificar.",ADALBERTO,2021-03-25 09:16:22.511436,,open,SupportTicket
+12,35986,AVC - Masculino ,Acessório: Cabo Extensor,DEC-L0004693,Não ler parametros,"Monitor mutltiparâmetro com defeito. Segundo equipe do noturno, não Lê (não aparece os dados) COM OS CABOS
+HOJE É POLI",VANIO,2021-03-25 09:11:56.269488,,open,SupportTicket
+13,35985,Bloco Cirúrgico 2º andar ,Suporte de cabeça,,Não funciona,"Solicito manutenção em três partes do suporte de mayfield.um não está travando, um a rosca está travando mesmo após lubrificação e o outro o parafuso está frouxo.
+Obrigada",MARCO ANTÔNIO,2021-03-25 08:36:28.987632,,open,SupportTicket
+14,35984,Bloco Cirúrgico 2º andar ,Mesa Cirúrgica,,Vazamento,MESA DA SALA 08 DO BC 2° COM VAZAMENTO DE ÓLEO. FOI RETIRADA DA SALA DEVIDO AO MAL FUNCIONAMENTO.,MARCO ANTÔNIO,2021-03-25 06:57:39.921156,,open,SupportTicket
+17,35981,Clínica Médica,Bomba de Infusão,,Com defeito,BOM COM DEFEITO NA CLÍNICA MEDICA DO 3º ANDAR .,,2021-03-24 18:22:11.913968,,open,SupportTicket
+18,35980,CTI - Poli,Acessório: Cabo de ECG,,Quebrado,cabo de ECG PHILLIPS ,ADALBERTO,2021-03-24 14:08:58.147844,,open,SupportTicket
+19,35979,Clínica Médica,Cama Eletrônica,,Outros,"Cama elétrica com a cabeceira quebrada. Precisamos urgência no conserto. 
+Enfermaria covid 2.
+Muito obrigada!",MARCOS ASSIS,2021-03-24 13:16:47.702493,,open,SupportTicket
+21,35977,Clínica Médica,,,Quebrado,"A tampa do Umidificador ref.0110,está quebrada.
+Enfermaria covid2. 
+Muito obrigada!
+",,2021-03-24 11:10:13.753511,,open,SupportTicket
+24,35974,Bloco Cirúrgico 2º andar ,Acessório: Cabo de Oxímetro,,Mal contato,Favor consertar pois esta apresentando mau contato.....GRATA.,MARCO ANTÔNIO,2021-03-24 08:11:53.022519,,open,SupportTicket
+28,35970,UPA/HOB,Raio-X Móvel,,Não funciona,Aparelho móvel da UPA dando falha 8 e parou de funcionar. AGUARDANDO SERVIMAGEM,ServImagem,2021-03-23 15:00:15.340158,,open,SupportTicket
+33,35965,UPA _ Ambulatório,Microondas,,Não funciona,"micoondas não tem patrimônio, doação de funcionario para copa que atende ambulatorio, gsat e CEM",MARCOS ASSIS,2021-03-23 11:15:10.469131,,open,SupportTicket
+35,35963,Clínica Cirúrgica 2º andar ,Lâmina de laringo,,,02 Lamina de laringo com lampada queimada,MARCOS ASSIS,2021-03-23 09:51:13.289036,,open,SupportTicket
+37,35961,UCINCo-Berçário ,Incubadora Neonatal,hob - DT3554,Alarme disparado,"Alarme de sobreaquecimento disparando.Display mostra temperatura da incubadora em torno de 30 º C ao tentar silenciar alarme, incubadora volta a apitar. ",MARCO ANTÔNIO,2021-03-23 08:57:17.181303,,open,SupportTicket
+40,35958,UPA/HOB,Termômetro Eletrônico,THOBTI3010620,Com defeito,termometro não funciona,MARCOS ASSIS,2021-03-22 12:34:53.595076,,open,SupportTicket
+43,35955,UPA/HOB,Sensor de SPO2,,Quebrado,sensor de spo2 omini med,MARCOS ASSIS,2021-03-22 11:45:31.206229,,open,SupportTicket
+44,35954,UPA/HOB,Y de oxigênio,,Vazamento,y para oxigenio estragado,MARCOS ASSIS,2021-03-22 11:43:38.443635,,open,SupportTicket
+49,35949,Laboratório ,Agitador Orbital,002254E,Com defeito,Agitador não está funcionando.,VANIO,2021-03-22 07:53:16.563500,,open,SupportTicket
+50,35948,Clínica Médica,Oximetro de Pulso,,Com defeito,"O oximetro está com defeito precisamos urgentemente do conserto.
+Enfermaria Covid2.
+Muito obrigada!
+",,2021-03-22 07:44:57.048669,,open,SupportTicket
+51,35947,Enfermaria Covid19,Monitor Multiparâmetro Modular,DT 4686,Não funciona,Monitor não funciona esta com defeito no saturimetro. ,,2021-03-21 16:31:10.194257,,open,SupportTicket
+56,35942,UPA/HOB,Cama Eletrônica,,Nao atende ao comando,"CAMA DA OBSERVAÇAO DO COVID  NÃO  OBEDECE OS  COMANDOS  DA PARTE   INFERIOR
+
+",MARCOS ASSIS,2021-03-19 16:33:17.493717,,open,SupportTicket
+57,35941,Bloco Cirúrgico 1º andar ,Aspirador de Secreção,002961E,Não liga,"ASPIRADOR PORTÁIL COM DEFEITO, NÃO LIGA. ",MARCO ANTÔNIO,2021-03-19 15:17:18.124811,,open,SupportTicket
+58,35940,UPA/HOB,Fluxômetro de O2,,Vazamento,fluxometro de oxigenio,MARCOS ASSIS,2021-03-19 14:35:06.695343,,open,SupportTicket
+62,35936,CTI - 2,Acessório: Cabo de ECG,PS3852,Mal contato,"Cabo de ECG com defeito: mau contato. E ponta do RL está quebrada. Gentileza verificar.
+Obrigada! ",,2021-03-19 10:51:33.103527,,open,SupportTicket
+63,35935,CTI - 2,Aspirador de Secreção,,Não aspira,"Vácuo portátil não está aspirando. Gentileza verificar. 
+Obrigada!",MARCOS ASSIS,2021-03-19 10:49:09.776049,,open,SupportTicket
+64,35934,CTI - 2,Lâmina de laringo,,Não acende,A lâmpada da lâmina não acende. Gentileza verificar possível troca.,MARCOS ASSIS,2021-03-19 09:18:50.841148,,open,SupportTicket
+65,35933,Bloco Cirúrgico 2º andar ,,,,com defeito PEDIDO DE COMPRA,Pedido de compra,2021-03-19 08:19:28.323393,,open,SupportTicket
+67,35931,UTIN-CTI Neonatal ,Incubadora de Transporte,2564E,Outros,"Gentileza disponibilizar um funcionário para parafusar a incubadora do transporte pois a bandeja encontra-se sem parafuso.
+OBS: A INCUBADORA ENCONTRA-SE NO BLOCO OBSTÉTRICO - 2º ANDAR.",ADALBERTO,2021-03-18 13:13:56.251583,,open,SupportTicket
+68,35930,UTIN-CTI Neonatal ,Acessório: Sensor de Temperatura,,Outros,Um lado o pino está quebrado e do outro lado não está funcionando.,MARCO ANTÔNIO,2021-03-18 13:11:02.723589,,open,SupportTicket
+69,35929,CTI - 4,Ventilador pulmonar,DT4733,Vazamento,VAZAMENTO DURANTE O TESTE.,MARCO ANTÔNIO,2021-03-18 11:10:17.775947,,open,SupportTicket
+75,35923,Pediátria 2º andar ,Balança Infantil,dec - 000736E,Com defeito,BALANÇA PEDIÁTRICA NÃO LIGA,MARCO ANTÔNIO,2021-03-18 10:10:40.378044,,open,SupportTicket
+81,35917,CME ,Autoclave,,Outros,OBS : PORTA DE DESCARGA DA AUTCLAVE B2 NÃO ABRINDO .,VANIO,2021-03-18 08:45:56.483082,,open,SupportTicket
+87,35911,CTI - 2,Ventilador pulmonar,DT3416,Com defeito,Não está funcionando.,,2021-03-17 14:52:13.162959,,open,SupportTicket
+89,35909,CTI - 2,Lâmina de laringo,,Com defeito,com defeito,MARCOS ASSIS,2021-03-17 12:56:16.189270,,open,SupportTicket
+91,35907,UPA/HOB,Válvula de O2 ,,Vazamento,válvula redutora de oxigenio ,MARCO ANTÔNIO,2021-03-17 12:34:16.738189,,open,SupportTicket
+92,35906,UPA/HOB,Monitor Multiparâmetro Modular,000321E,Erro de comunicação,Erro no modulo de transmissão. Grato Edson,MARCOS ASSIS,2021-03-17 12:32:01.017530,,open,SupportTicket
+93,35905,Farmácia,Geladeira,,Não funciona,"Geladeira do almoxarifado da farmácia não está refrigerando.
+Favor verificar.",VANIO,2021-03-17 11:05:45.614845,,open,SupportTicket
+95,35903,Bloco Obstétrico ,Lâmina de laringo,,Não mantem ligado,Lamina de Laringoscópio não liga lâmpada,MARCO ANTÔNIO,2021-03-17 08:46:37.723748,,open,SupportTicket
+96,35902,Bloco Obstétrico ,Cardiotocógrafo,hob - DM4321,,"cardiotocografia com chiado
+Encaminhado dois cabos DOP e UC",MARCO ANTÔNIO,2021-03-17 08:44:50.611716,,open,SupportTicket
+97,35901,UTIN-CTI Neonatal ,Fototerapia,DM5352,Manutenção preventiva,Manutenção preventiva.,,2021-03-17 07:26:04.584701,,open,SupportTicket
+99,35899,Bloco Cirúrgico 2º andar ,Bisturi Eletrônico,DM4951,Outros,"Mal funcionamento, para de funcionar durante o uso. ",MARCO ANTÔNIO,2021-03-16 18:42:25.860357,,open,SupportTicket
+100,35898,Bloco Obstétrico ,Anestesia,dec - 002460E,,"não carrega a bateria, alarme continuo de conectar na rede carrinho ligado na rede eletrica, necessita avaliação urgente",MARCO ANTÔNIO,2021-03-16 16:04:24.476385,,open,SupportTicket
+102,35896,CTI - 6,Acessório: Sensor de Temperatura,,Cabo rompido,Cabo de temperatura rompido.,,2021-03-16 15:23:38.406254,,open,SupportTicket
+106,35892,UPA/HOB,Ventilador pulmonar,DEC-002579E,Vazamento,ventilador com defeito,MARCOS ASSIS,2021-03-16 11:31:14.876668,,open,SupportTicket
+108,35890,UPA/HOB,Acessório: Sensor de Temperatura,,Interferência,sensor de temperatura axilar phillips não funciona,MARCOS ASSIS,2021-03-16 11:27:20.530118,,open,SupportTicket
+109,35889,UTIN-CTI Neonatal ,Fototerapia,DM5349,Manutenção preventiva,MANUTENÇÃO PREVENTIVA.,MARCO ANTÔNIO,2021-03-16 11:25:10.404502,,open,SupportTicket
+110,35888,UPA/HOB,Válvula de O2 ,,Com defeito,02 válvulas redutoras de oxigenio com defeito,MARCOS ASSIS,2021-03-16 11:24:41.224407,,open,SupportTicket
+112,35886,Urgência Pediatrica,Termômetro Eletrônico,,Não realiza exame,"Bom dia, encaminho a engenharia clinica 01 termômetro de monitor de dados Philips que não está realizando leitura da temperatura  e tem apresentado mensagem de defeito na sonda. Grata,",MAURÍCIO,2021-03-16 10:46:12.092384,,open,SupportTicket
+113,35885,Neurologia,Acessório: Mangueira de PNI,L0003356,Não ler parametros,procurar a supervisora barbara ou  a tecnica lili.,,2021-03-16 10:23:07.596496,,open,SupportTicket
+114,35884,CTI - 4,Válvula de oxigênio,,Com defeito,fluxometro de cilindro com defeito,MARCO ANTÔNIO,2021-03-16 10:14:19.107684,,open,SupportTicket
+115,35883,CTI - 4,Válvula de oxigênio,,Com defeito,fluxometro de cilindro quebrado,MARCO ANTÔNIO,2021-03-16 10:11:49.087973,,open,SupportTicket
+116,35882,CTI - 3,Acessório: Sensor de Temperatura,,,NAO ESTA FUNCIONANDO,VANIO,2021-03-16 09:58:47.660337,,open,SupportTicket
+117,35881,UTIN-CTI Neonatal ,Fototerapia,DM5359,Manutenção preventiva,MANUTENÇÃO PREVENTIVA.,MARCO ANTÔNIO,2021-03-16 09:57:40.957698,,open,SupportTicket
+122,35876,CTI - 1,Cama Eletrônica,,,"A cama não funciona. Ela está no corredor ( em frente à porta de entrada do CTI 1) - Pertence ao CTi 
+PEDIDO DE COMPRA",Pedido de compra,2021-03-15 13:15:03.802110,,open,SupportTicket
+123,35875,Pronto Socorro,Microondas,,Com defeito,"microondas da sala 150 patrimonio 117760 esta estragado.Grato Edson microondas da sala 150
+PEDIDO DE COMPRA",Pedido de compra,2021-03-15 12:59:39.358378,,open,SupportTicket
+124,35874,CTI - 1,BRAÇO CIRCUITO,,Com defeito,Circuito do Respirado está com defeito.,MARCOS ASSIS,2021-03-15 12:42:07.224137,,open,SupportTicket
+132,35866,Clínica Médica,Cama Eletrônica,,Não está travando,BOM DIA.URGENTE! PACIENTE COM RISCO DE QUEDA POIS GRADE NAO ESTA TRAVANDO. OBRIGADA,VANIO,2021-03-15 09:15:52.321928,,open,SupportTicket
+143,35855,Clínica Médica,Oximetro de Pulso,DT3137,Não liga,O oximetro de pulso não liga.,VANIO,2021-03-14 14:41:30.745104,,open,SupportTicket
+144,35854,Bloco Cirúrgico 1º andar ,Ultrassom(Diagnóstico por Imagem),,Falha ao realizar exame,Aparelho ao ser ligado apresenta uma mensagem de erro e não permite a continuação do exame,ADALBERTO,2021-03-13 12:36:41.812366,,open,SupportTicket
+152,35846,Clínica Médica,Monitor de Sinais Vitais,DT4262,Não funciona,"O esfigmo está estragado.
+Enfermaria covid 2.
+Muito obrigada!",VANIO,2021-03-12 13:07:40.593734,,open,SupportTicket
+153,35845,Poli ,Válvula de ar comprimido,,Vazamento,02 valvulas redutoras de ar comprimido,VANIO,2021-03-12 12:58:20.188322,,open,SupportTicket
+154,35844,Poli ,Válvula de oxigênio,,Com defeito,02 valvulas redutoras de oxigenio,VANIO,2021-03-12 12:57:16.618541,,open,SupportTicket
+159,35839,NCA - Núcleo Cirurgia Ambulatorial ,Bisturi Eletrônico,,,com defeito,MARCO ANTÔNIO,2021-03-12 10:36:34.712721,,open,SupportTicket
+161,35837,NCA - Núcleo Cirurgia Ambulatorial ,Incubadora,,,com defeito,MARCO ANTÔNIO,2021-03-12 10:20:01.110806,,open,SupportTicket
+163,35835,Central de Equipamentos,Radiômetro,DT4254,Manutenção preventiva,Preventiva,VANIO,2021-03-12 10:06:15.624164,,open,SupportTicket
+164,35834,Central de Equipamentos,Radiômetro,DT4255,Manutenção preventiva,Preventiva,MARCOS ASSIS,2021-03-12 10:05:27.446408,,open,SupportTicket
+165,35833,Central de Equipamentos,Radiômetro,DT4256,Manutenção preventiva,Lucas,MARCOS ASSIS,2021-03-12 10:04:43.027980,,open,SupportTicket
+166,35832,UTIN-CTI Neonatal ,Radiômetro,DT4251,Manutenção preventiva,Lucas,ADALBERTO,2021-03-12 10:03:29.000148,,open,SupportTicket
+167,35831,UTIN-CTI Neonatal ,Radiômetro,DT4250,Manutenção preventiva,Preventiva,ADALBERTO,2021-03-12 10:02:55.705021,,open,SupportTicket
+168,35830,UCINCo-Berçário ,Radiômetro,DT4249,Manutenção preventiva,Preventiva,MARCO ANTÔNIO,2021-03-12 10:01:44.066733,,open,SupportTicket
+169,35829,Maternidade ,Radiômetro,DT4248,Manutenção preventiva,Preventiva,MARCO ANTÔNIO,2021-03-12 10:00:55.161399,,open,SupportTicket
+170,35828,AVC - Masculino ,Monitor de Sinais Vitais,DT4261,Com defeito,"Não mede pressão(fio incompatível não  encaixa).
+AVCMMSV2011119.
+Enfermaria covid 2.
+Muito obrigada!",,2021-03-12 09:34:36.369092,,open,SupportTicket
+172,35826,Laboratório ,Centrífuga,DT 3429,Nao atende ao comando,Não está atendendo aos comandos,,2021-03-12 08:56:57.939815,,open,SupportTicket
+175,35823,UTIN-CTI Neonatal ,Incubadora Neonatal,dec- 000705E,Outros,DEFEITO NO VISOR,MARCO ANTÔNIO,2021-03-11 18:31:58.671767,,open,SupportTicket
+176,35822,Bloco Obstétrico ,DOPPLER FETAL,,Outros,"aparelho que nao possui numero de patrimonio
+nao mantem ligado, nao lê os parâmnetros dos dados fetais",MARCO ANTÔNIO,2021-03-11 17:24:31.510214,,open,SupportTicket
+178,35820,Bloco Obstétrico ,Termo Higrômetro Digital,,Outros,"Boa tarde! Gentileza verificar termômetro infravermelho ( sem contato) pois o mesmo acusa sempre a mesma temperatura, para todos os pacientes.
+
+NOTA ( NÃO POSSUI NÚMERO DE PATRIMONIO)",MARCO ANTÔNIO,2021-03-11 16:57:43.343815,,open,SupportTicket
+184,35814,Bloco Cirúrgico 2º andar ,Acessório: Caneta de Bisturi Utrassônico,,Não liga,"Solicito manutenção em Caneta Bipolar do endoscópio da Neuro.
+Envio o mesmo completo incluindo o cabo.
+Obrigada",MARCO ANTÔNIO,2021-03-11 16:24:07.902361,,open,SupportTicket
+192,35806,CTI - Poli,Acessório: Sensor de Temperatura,,Sensor Quebrado,SENSOR DE TEMPERATURA AXILAR QUEBRADO. PACIENTE LEVANTOU DO LEITO E ROMPEU O CABO DE TEMPERATURA. SOLICITO REPOSIÇÃO DE NOVO CABO.,ADALBERTO,2021-03-11 10:11:52.922183,,open,SupportTicket
+193,35805,UTIN-CTI Neonatal ,Berço Aquecido,,Outros,A lateral está quebrada,MARCO ANTÔNIO,2021-03-11 10:08:55.255888,,open,SupportTicket
+195,35803,Ortopedia ,Bomba de Infusão,hob - PS2894,Com defeito,"SOLICITO MANUTENÇÃO EM 2 BOMBAS DE INFUSÃO QUE ESTA APRESENTANDO DEFEITO (NÃO INFUNDE E ACUSA DEFEITO NO SENSOR), TECLA NÃO MANTEM LIGADO, DEFEITOS IDENTIFICADOS NA BOMBA",,2021-03-11 09:50:13.272327,,open,SupportTicket
+218,35780,CTI - 2,Termômetro Eletrônico,,Com defeito,Com defeito,MARCOS ASSIS,2021-03-10 11:08:50.415804,,open,SupportTicket
+222,35776,UTIN-CTI Neonatal ,Ventilador pulmonar,PS3267,Outros,NÃO ESTÁ CALIBRANDO.,,2021-03-10 10:47:41.454186,,open,SupportTicket
+225,35773,CTI - 6,Acessório: Cabo de ECG,,Não funciona,Cabo não funciona.,,2021-03-10 09:11:29.454356,,open,SupportTicket
+229,35769,Bloco Obstétrico ,,,,"Aspirador elétrico da sala de cesárea do bloco cirúrgico covid,segundo andar,não aspira",,2021-03-09 22:08:58.013568,,open,SupportTicket
+234,35764,Farmácia,Geladeira,,Apitando sem parar,"Favor verificar geladeira do almoxarifado da farmácia.
+",VANIO,2021-03-09 15:08:09.613288,,open,SupportTicket
+238,35760,Enfermaria Covid19,Oximetro de Pulso,,Cabo danificado,"CABO DANIFICADO, NÃO FUNCIONA.",,2021-03-09 12:28:05.315005,,open,SupportTicket
+239,35759,Enfermaria Covid19,Oximetro de Pulso,,Sensor Quebrado,SENSOR NÃO ESTÁ CONECTANDO AO APARELHO.,,2021-03-09 12:24:49.223246,,open,SupportTicket
+241,35757,CTI - 6,Acessório: Cabo de ECG,,NÃO PINÇA,A garra não tem pinça.,,2021-03-09 08:40:15.180164,,open,SupportTicket
+250,35748,CTI Pediátrico ,Bomba de infusão de seringa,DEC - 002407E,Bateria descaregada,Bateria não carrega.,MARCO ANTÔNIO,2021-03-08 10:30:47.103660,,open,SupportTicket
+258,35740,Bloco Obstétrico ,DOPPLER FETAL,,Com defeito,"Boa tarde! Gentileza verificar o Doppler fetal do BO, cujo número de patrimônio DM 4935 não está registrado. O equipamento está chiando muito e não é possível a sua utilização.
+Obrigada ",MARCO ANTÔNIO,2021-03-05 17:29:45.582759,,open,SupportTicket
+263,35735,Pediátria 2º andar ,Acessório: Cabo de Oxímetro,0002639,Luz Insuficiente,SENSOR DIXTAL/NEO NÃO CAPTA,,2021-03-05 10:37:52.766528,,open,SupportTicket
+271,35727,UPA _ Ambulatório,Balança Infantil,dec - 000224E,NÃO CALIBRA,Balança pediátrica pesando 400 mg a mais,MARCO ANTÔNIO,2021-03-05 07:43:58.606287,,open,SupportTicket
+276,35722,Clínica Médica,,,Não capta,"Oximetro de pulso não está captando.
+N° do Registro no Ministério da Saúde 10293490005.
+Nº de serie: 95611493.
+Enfermaria Covid2.
+Muito obrigada!
+",,2021-03-04 12:08:17.900136,,open,SupportTicket
+277,35721,Clínica Médica,,,Outros,"Válvula de oxigênio vazando.
+Enfermaria Covid 2.
+Muito obrigada!",,2021-03-04 12:02:38.390470,,open,SupportTicket
+278,35720,Clínica Médica,,,Não liga,"Ooximetro de pulso não está ligando.
+Nº Registro no Ministério da Saúde 10293490010
+Número de serie: 00D71682.
+Enfermaria Covid2.
+Muito obrigada!",,2021-03-04 11:34:02.649839,,open,SupportTicket
+293,35705,Bloco Cirúrgico 2º andar ,Bisturi Eletrônico,dec - 001305E,.,"não mantem ligado, mal contato .",,2021-03-03 15:51:26.935105,,open,SupportTicket
+295,35703,Triagem,Monitor de Sinais Vitais,DT4288,Erro na leitura,"erro no modulo da sonda da temperatura , lote da sonda (10)562019  serie do aparelho CN42738553",Pedido de compra,2021-03-03 15:21:33.645763,,open,SupportTicket
+304,35694,Lactário ,Balança de precisão,hob - DM4200,Desligando Sozinho,"Bom Dia 
+solicito  verificação na balança do preparo 1 do setor, o aparelho esta desligando sozinho.",,2021-03-03 09:14:50.475016,,open,SupportTicket
+342,35656,NCA - Núcleo Cirurgia Ambulatorial ,Fonte de Luz,HOB-DM2590,Luz Insuficiente,"Luz fraca.
+PEDIDO DE COMPRA DE LAMPADA",Pedido de compra,2021-03-01 08:50:26.982928,,open,SupportTicket
+344,35654,,Cufômetro,,Sensor Quebrado,Ponteiro não está se movendo,,2021-03-01 08:28:42.760845,,open,SupportTicket
