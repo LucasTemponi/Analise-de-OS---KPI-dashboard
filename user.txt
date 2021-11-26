@@ -1,0 +1,3 @@
+user='genc',password='Genc159',host='10.3.17.214',database='crm_production'
+
+1XXFYi1zZXRWBNIOod94L0NWf-Xz9_qrsfQtE_EmS5kU
